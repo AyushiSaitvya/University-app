@@ -1,0 +1,19 @@
+
+.circle{
+    border-radius: 100%;        
+    background: greenyellow;
+    display:inline-block;
+    width: 200px;
+    line-height: 150px;
+    font-size:20px;
+    padding: 20px;
+    margin: 100px;
+  }
+  .row {
+      width: 100%;
+      margin: 0 auto;
+    }
+    .block {
+      width: 300px;
+      float: left;
+    }
